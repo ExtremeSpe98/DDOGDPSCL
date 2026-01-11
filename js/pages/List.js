@@ -99,6 +99,7 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
+                    <div style="color: #4f4f4f;">
                     <p>
                         You must have beaten the level the intendeed route (small skips are allowed, but skips which make the level easier aren't).
                     </p>
@@ -114,7 +115,9 @@ export default {
                     <p>
                         Cheat indicator needs to be visible throught the entire recording as well as the endscreen.
                     </p>
+                    </div>
                     <h3>New Placement Requirements</h3>
+                    <div style="color: #4f4f4f;">
                     <p>
                         The level needs to be less than 30 seconds long.
                     </p>
@@ -130,6 +133,7 @@ export default {
                     <p>
                         The level shouldn't be a copy of someone else's level except if it's edited to make it original in some way (different deco, some gp changes), as well as if creator of said challenge is active in the gdps.
                     </p>
+                    </div>
                     <p>
                         <b>If you have any questions, join our <a href="https://discord.gg/apWKAnhBE2">Discord Server</a> or contact @extremespe98 on Discord.</b>
                     </p>
