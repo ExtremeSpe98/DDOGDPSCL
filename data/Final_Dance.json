@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=Y20sZQZpktQ&t=2m52s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Abca",
+            "link": "https://youtu.be/8O5CffxiW_Q",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
