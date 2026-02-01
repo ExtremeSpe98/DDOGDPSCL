@@ -13,6 +13,13 @@
             "link": "https://youtu.be/eo0msPNP4EE",
             "percent": 100,
             "hz": 60
+        }, 
+        {
+            "user": "abner2008",
+            "link": "https://youtu.be/Vrluku2nB-A?si=u6KeLXzTqOeiPVhp ",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
