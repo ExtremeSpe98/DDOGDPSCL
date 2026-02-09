@@ -123,6 +123,13 @@
             "link": "https://youtu.be/U0QwEZ9Jtks?si=hSqwDyLKGx899VWh",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "DeXN",
+            "link": "https://youtu.be/bPMJt8rPm2E?si=jvSXMZK7oWOj7wcu",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
