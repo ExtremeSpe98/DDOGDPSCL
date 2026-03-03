@@ -130,6 +130,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "GMDPulsar",
+            "link": "https://youtu.be/wUhEMyy6hbM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
