@@ -136,6 +136,13 @@
             "link": "https://youtu.be/wUhEMyy6hbM",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Ag15",
+            "link": "https://youtu.be/qe_hD_2GA10?si=IPBAnPIX_r_XCob6",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
