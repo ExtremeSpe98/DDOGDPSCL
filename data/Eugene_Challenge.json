@@ -143,6 +143,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "https://youtu.be/H5kenmtwATI",
+            "percent": 100,
+            "hz": 100
         }
     ]
 }
