@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=uU_cqoGDjFg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "OzymandiasGD",
+            "link": "https://youtu.be/s4dZGCPugug",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
