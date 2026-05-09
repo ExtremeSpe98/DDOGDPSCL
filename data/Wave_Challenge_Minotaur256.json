@@ -111,6 +111,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Breaddd",
+            "link": "https://youtu.be/hkHp5yVDyrw?si=blsW2knzJnfIvVn8&t=2m35s",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
