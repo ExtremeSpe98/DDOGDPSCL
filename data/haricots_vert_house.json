@@ -3,10 +3,16 @@
     "name": "Haricots Vert House",
     "author": "Takoe",
     "creators": [],
-    "verifier": "kdawguwu610ohye",
-    "verification": "https://www.youtube.com/watch?v=F2_zCr0_TdE",
+    "verifier": "Takoe",
+    "verification": "https://youtu.be/lNCeCOBEvEU",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "kdawguwu610ohye",
+            "link": "https://www.youtube.com/watch?v=F2_zCr0_TdE",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
