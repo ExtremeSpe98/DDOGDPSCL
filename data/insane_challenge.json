@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=R1SP15K6BfA&t=5m18s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Cyritt",
+            "link": "https://youtu.be/7NA9UR445-Q",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
