@@ -122,7 +122,7 @@ export default {
                         Level shouldn't be a consistency challenge.
                     </p>
                     <p>
-                        New placement needs to be harder than currently <b>baugette challenge</b>.
+                        New placement needs to be harder than the current <b>top 100</b>.
                     </p>
                     <p>
                         Reuploaded levels are prohibited unless the creator of said level is active in the gdps and the level isn't bad.
