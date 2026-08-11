@@ -3,11 +3,17 @@
     "name": "not limbo",
     "author": "Glows",
     "creators": [],
-    "verifier": "TurboFlash",
-    "verification": "https://youtu.be/J0UvjpFSvig",
+    "verifier": "kdawguwu610ohye",
+    "verification": "https://www.youtube.com/watch?v=xPcTcMll_wQ",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/J0UvjpFSvig",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "SomeoneUnknown",
             "link": "https://youtu.be/PMiD7-T0e7U",
@@ -22,7 +28,7 @@
         },
         {
             "user": "Beli9002",
-            "link": "https://youtu.be/M9uR91gphmE?si=0xiTIQYmAmcaM6jL&t=4m32s",
+            "link": "https://youtu.be/M9uR91gphmE&t=4m32s",
             "percent": 100,
             "hz": 144
         }
