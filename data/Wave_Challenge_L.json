@@ -87,6 +87,12 @@
             "link": "https://youtu.be/grEbew5PtWY",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "MakeItBluer",
+            "link": "https://www.youtube.com/watch?v=GDns-OfKAOQ&t=100",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
