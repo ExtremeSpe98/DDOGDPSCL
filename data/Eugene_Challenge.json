@@ -167,6 +167,12 @@
             "link": "https://www.youtube.com/watch?v=GDns-OfKAOQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "JojoGD",
+            "link": "https://youtu.be/K1T-LMlDGIM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
