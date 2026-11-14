@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=Y20sZQZpktQ&t=3m36s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "windDonpc",
+            "link": "https://www.youtube.com/watch?v=tTSvoN9oQF0",
+            "percent": 100,
+            "hz": 100
         }
     ]
 }
